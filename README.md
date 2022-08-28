@@ -1,13 +1,9 @@
 # Sirius, 2021
 ## Semantic extraction and synthesis project (Huawei)
 
-### Dimensionality Reduction
-Our task was to investigate methods of dimension reduction methods and show that for the presented data there exist such embedding dimensionality D’ < D which doesn’t decrease embeddings correspondence quality (top-1 accuracy).
-![](/images/log.png)
-
-
 ### Embeddings clusterization
 We were studying the clusterization methods and show that there exist clusters in the embeddings data. Perform the visualization of these data clusters.
+![](/images/plot_clusters.png)
 
 ### CLIP Latent space with CelebA dataset
 We get CLIP latent vectors for images from CelebA dataset and want to understand which elements of this vectors match image features. We found some of this dependencies. We can add glasses, change skin color and sex.
