@@ -11,7 +11,8 @@ We were studying the clusterization methods and show that there exist clusters i
 Also we noticed that Deep embedded clustering model get better results that other clustering methods such as K-means or even clusterazation via autoencoder. More details in the presentation.
 
 ### CLIP Latent space with CelebA dataset
-We get CLIP latent vectors for images from CelebA dataset and want to understand which elements of this vectors match image features. This can be solved via [paper](https://arxiv.org/pdf/2004.13166.pdf)
+We get CLIP latent vectors for images from CelebA dataset and want to understand which elements of this vectors match image features. This can be solved via paper [ A Disentangling Invertible Interpretation Network for Explaining Latent Representations](https://arxiv.org/pdf/2004.13166.pdf).
+
 We found some of this dependencies. We can add glasses, change skin color and sex.
 
 ###  Glasses
